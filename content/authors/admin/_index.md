@@ -117,6 +117,6 @@ highlight_name: true
 
 Hi there! My name is Huyen. I'm currently graduated from the University of Science, majoring in computer science, and I'm currently a AI resident at FPT AI Residency. My current research interests revolve around machine learning, specifically in multimodal deep learning, large language models (LLMs), and efficient machine learning. I thrive on engaging in intellectual discussions, whether with those who share my interests or individuals from entirely different backgrounds. To be part of such stimulating conversations, I dedicate myself to continuous learning and actively seek opportunities to connect with amazing people. 
 
-Besides doing research in machine learning, I am also a tutor at Big O - an algorithm teaching center in Vietnam. Here, I provide personalized one-on-one algorithm courses to anyone interested. Teaching, for me, is a rewarding exchange where I share my knowledge and, in turn, enhance my understanding through the interesting questions posed by my students.
+Besides doing research in machine learning, I am also a tutor at Big O Coding- an algorithm teaching center in Vietnam. Here, I provide personalized one-on-one algorithm courses to anyone interested. Teaching, for me, is a rewarding exchange where I share my knowledge and, in turn, enhance my understanding through the interesting questions posed by my students.
 
 {style="text-align: justify;"}

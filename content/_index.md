@@ -71,12 +71,28 @@ sections:
           date_end: ''
           description: 
         - title: Research Intern
+          company: VietUnion Online Services Corporation (Payoo) 
+          company_url: ''
+          company_logo: org-x
+          location: Vietnam
+          date_start: '2023-07'
+          date_end: '2022-12'
+          description: 
+        - title: Research Intern
           company: ML4ED Laboratory - Summer@EPFL
           company_url: ''
           company_logo: org-x
           location: Switzerland
           date_start: '2022-06'
           date_end: '2022-09'
+          description: 
+        - title: Teaching assistant + Tutor
+          company: Big O Coding
+          company_url: ''
+          company_logo: org-x
+          location: Vietnam
+          date_start: '2020-10'
+          date_end: ''
           description: 
     design:
       columns: '2'
@@ -176,14 +192,14 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: featured
   #   content:
