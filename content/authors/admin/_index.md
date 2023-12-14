@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Huyen Le
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: "My name is quite challenging to pronounce, even for Vietnamese speakers. Let me share with you a pronunciation tip I learned from a French friend: you can quickly say 'who in,' and it will sound like my name. It's not a perfect match, but it's a good starting point, haha"
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Huyen
+last_name: Le
 
 # Status emoji
 status:
@@ -17,34 +17,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: AI resident 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: FPT AI residency
+    url: https://ai.fpt-software.com/ai-residency/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi! 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Large Language Models (LLMs)
+  - Efficient Machine Learning 
+  - Multimodal Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: University of Sciene - Vietnam National University Ho Chi Minh city
+      year: 2019 - 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -91,24 +86,24 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: 
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LeThaoHuyen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/huyen-le-a36093161/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +115,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! My name is Huyen. I'm currently graduated from the University of Science, majoring in computer science, and I'm currently a AI resident at FPT AI Residency. My current research interests revolve around machine learning, specifically in multimodal deep learning, large language models (LLMs), and efficient machine learning. I thrive on engaging in intellectual discussions, whether with those who share my interests or individuals from entirely different backgrounds. To be part of such stimulating conversations, I dedicate myself to continuous learning and actively seek opportunities to connect with amazing people. 
+
+Beside doing research in machine learning, I am also a tutor at Big O - an algorithm teaching center in Vietnam. Here, I provide personalized one-on-one algorithm courses to anyone interested. Teaching, for me, is a rewarding exchange where I share my knowledge and, in turn, enhance my understanding through the interesting questions posed by my students.
+
 {style="text-align: justify;"}
