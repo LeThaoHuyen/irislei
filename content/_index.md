@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -73,7 +74,7 @@ sections:
         - title: Research Intern
           company: VietUnion Online Services Corporation (Payoo) 
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Vietnam
           date_start: '2023-07-01'
           date_end: '2022-12-01'
@@ -81,7 +82,7 @@ sections:
         - title: Research Intern
           company: ML4ED Laboratory - Summer@EPFL
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Switzerland
           date_start: '2022-06-01'
           date_end: '2022-09-01'
@@ -89,7 +90,7 @@ sections:
         - title: Teaching assistant + Tutor
           company: Big O Coding
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Vietnam
           date_start: '2020-10-01'
           date_end: ''
