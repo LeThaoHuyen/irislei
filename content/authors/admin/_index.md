@@ -3,7 +3,8 @@
 title: Huyen Le
 
 # Name pronunciation (optional)
-name_pronunciation: "Let me share with you a pronunciation tip I learned from a French friend: you can quickly say 'who in,' and it will sound like my name. It's not a perfect match, but it's a good starting point!"
+name_pronunciation: 
+# "Let me share with you a pronunciation tip I learned from a French friend: you can quickly say 'who in,' and it will sound like my name. It's not a perfect match, but it's a good starting point!"
 
 # Full name (for SEO)
 first_name: Huyen
