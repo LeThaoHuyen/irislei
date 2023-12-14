@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Vietnam
-          date_start: '2023-08'
+          date_start: '2023-08-01'
           date_end: ''
           description: 
         - title: Research Intern
@@ -75,23 +75,23 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Vietnam
-          date_start: '2023-07'
-          date_end: '2022-12'
+          date_start: '2023-07-01'
+          date_end: '2022-12-01'
           description: 
         - title: Research Intern
           company: ML4ED Laboratory - Summer@EPFL
           company_url: ''
           company_logo: org-x
           location: Switzerland
-          date_start: '2022-06'
-          date_end: '2022-09'
+          date_start: '2022-06-01'
+          date_end: '2022-09-01'
           description: 
         - title: Teaching assistant + Tutor
           company: Big O Coding
           company_url: ''
           company_logo: org-x
           location: Vietnam
-          date_start: '2020-10'
+          date_start: '2020-10-01'
           date_end: ''
           description: 
     design:
